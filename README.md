@@ -1,6 +1,6 @@
 ### Hi 👋🏼
 
-Hello there, I'm <a href="https://github.com/samir-el-asri">Samir El Asri</a>, a Moroccan 🇲🇦 IT student/full-stack web dev in training. Currently focusing on Laravel & React.js
+Hello there, I'm <a href="https://github.com/samir-el-asri">Samir El Asri</a>, a Moroccan 🇲🇦 student engineer/full-stack web dev in training. Currently focusing on Laravel & React.js
 
 <a href="https://linkedin.com/in/samir-el-asri"><img width="30px" src="https://img.icons8.com/color/144/000000/linkedin-circled--v1.png"/></a>
 &nbsp;&nbsp;
