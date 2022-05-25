@@ -9,3 +9,4 @@ Hello there, I'm <a href="https://github.com/samir-el-asri">Samir El Asri</a>, a
 <div><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/samir_el_asri?style=for-the-badge"></div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir-el-asri&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
