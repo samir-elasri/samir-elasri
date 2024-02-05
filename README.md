@@ -2,7 +2,7 @@
 
 Hello there, I'm <a href="https://github.com/samir-el-asri">Samir El Asri</a>, a full-stack engineer from Morocco 🇲🇦.
 
-<a href="https://linkedin.com/in/samir-el-asri"><img width="30px" src="https://img.icons8.com/color/144/000000/linkedin-circled--v1.png"/></a>
+<a href="https://linkedin.com/in/samir-elasri"><img width="30px" src="https://img.icons8.com/color/144/000000/linkedin-circled--v1.png"/></a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/samir_el_asri"><img width="30px" src="https://img.icons8.com/color/144/000000/twitter-circled--v1.png"/>
   
