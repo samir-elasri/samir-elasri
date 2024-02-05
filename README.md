@@ -1,6 +1,6 @@
 ### Hi 👋🏼
 
-Hello there, I'm <a href="https://github.com/samir-el-asri">Samir El Asri</a>, a full-stack engineer from Morocco 🇲🇦.
+Hello there, I'm <a href="https://github.com/samir-elasri">Samir El Asri</a>, a full-stack engineer from Morocco 🇲🇦.
 
 <a href="https://linkedin.com/in/samir-elasri"><img width="30px" src="https://img.icons8.com/color/144/000000/linkedin-circled--v1.png"/></a>
 &nbsp;&nbsp;
